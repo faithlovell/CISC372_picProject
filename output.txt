@@ -1,0 +1,9 @@
+Script started on Tue Oct 31 20:39:01 2023
+]0;faithlov@r1n05.darwin:~/CISC372_picProject[?1034h[faithlov@r1n05 CISC372_picProject]$ rm -r CISC372_picProject[3PCISC372_picProject[3@-r CISC372_picProject[Ksrun ./pthreadimage pic1.jpg edge
+Took 7 seconds
+]0;faithlov@r1n05.darwin:~/CISC372_picProject[faithlov@r1n05 CISC372_picProject]$ sun  run ./ompimage pic1.jpg edge
+Took 7 seconds
+]0;faithlov@r1n05.darwin:~/CISC372_picProject[faithlov@r1n05 CISC372_picProject]$ exit
+exit
+
+Script done on Tue Oct 31 20:39:45 2023
